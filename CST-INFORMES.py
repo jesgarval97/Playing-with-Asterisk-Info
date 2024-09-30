@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 16 14:45:17 2024
 
-@author: Jesús Garcia Valverde - Tier1
+@author: Jesús Garcia Valverde 
 """
 
 import pandas as pd
